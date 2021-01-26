@@ -6,7 +6,7 @@ body {
   
   .navigacija {
     overflow: hidden;
-    background-color: black;
+    background-color:pink;
     justify-content: center;
     display: flex;
     align-items: center;
